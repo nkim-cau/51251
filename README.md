@@ -2,7 +2,6 @@
 
 **Basic Computer Programming @ Electrical & Electronics Eng. CAU**
 
-C Programming 예제풀이 및 실습/과제
 
 # 개발 도구 설치 및 실행
 - [Developer Survey - Most Popular IDE](https://survey.stackoverflow.co/2024/technology#1-integrated-development-environment)
